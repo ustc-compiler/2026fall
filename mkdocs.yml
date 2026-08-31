@@ -1,6 +1,6 @@
-site_name: USTC 编译原理和技术(H) 2025
-repo_name: ustc-compiler/2025fall
-repo_url: https://github.com/ustc-compiler/2025fall
+site_name: USTC 编译原理和技术(H) 2026
+repo_name: ustc-compiler/2026fall
+repo_url: https://github.com/ustc-compiler/2026fall
 theme:
   name: 'material'
   palette:
