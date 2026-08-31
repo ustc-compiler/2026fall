@@ -17,7 +17,7 @@
 - **地点**：GT-B203
 - **主讲教师**：张昱 [:material-email:](mailto:yuzhang@ustc.edu.cn) [:simple-gitlab:{ .gitlab }](https://git.lug.ustc.edu.cn/yuzhang)
 - **助教**：孙新雨、夏怀琪、刘硕、丁伯尧、郑钊雨、魏星迪、周子翔、熊桐睿
-- **QQ 群**：xxxxx
+- **课程群**：xxxxx
 - **Issue 讨论区**：[:simple-gitlab:{ .gitlab } compiler/course](https://git.lug.ustc.edu.cn/compiler/course/-/issues) (可以尝试在评论区中 `@compilerh-course-bot`)
 
 - **教材**：张昱、陈意云，[:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf) 编译原理（第 4 版）——待出版
