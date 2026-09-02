@@ -1,8 +1,8 @@
-# USTC _Principles and Techniques of Compiler(H)_ 2025 course homepage
+# USTC _Principles and Techniques of Compiler(H)_ 2026 course homepage
 
-Homepage link: <https://ustc-compiler.github.io/2025fall>
+Homepage link: <https://ustc-compiler.github.io/2026fall>
 
-This README is a toturial of how to write and preview the docs.
+This README is a tutorial on how to write and preview the docs.
 
 ## Development
 
@@ -29,7 +29,7 @@ In order to keep the doc style consistent, we use [Prettier](https://prettier.io
 npm install # then install Prettier and AutoCorrect
 ```
 
-See [Prettier Doc: Editor Integration](https://prettier.io/docs/en/editors.html) and [AutoCorrect: VS Code Extension](https://github.com/huacnlee/autocorrect#vs-code-extension) for editor intergration.
+See [Prettier Doc: Editor Integration](https://prettier.io/docs/en/editors.html) and [AutoCorrect: VS Code Extension](https://github.com/huacnlee/autocorrect#vs-code-extension) for editor integration.
 
 > Type Ctrl+Shift+P and "show recommended extensions" to see these extensions and install them. VSCode might pop up a window. Just install these extensions.
 
@@ -54,7 +54,7 @@ Read <https://squidfunk.github.io/mkdocs-material/reference/admonitions/> for mo
 ## Deployment
 
 1. Enable GitHub Actions.
-2. Push an commit to trigger the workflow, create the branch gh-pages and generete pages.
+2. Push a commit to trigger the workflow, create the `gh-pages` branch and generate pages.
 3. In Settings > Pages > Build and deployment
    1. select the "Deploy from a branch" option in "Source"
    2. select "gh-pages" in "Branch"

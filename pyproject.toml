@@ -1,7 +1,7 @@
 [project]
-name = "2025fall"
+name = "2026fall"
 version = "0.1.0"
-description = "Add your description here"
+description = "USTC Principles and Techniques of Compiler (H) 2026 course homepage"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
