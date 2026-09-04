@@ -20,7 +20,7 @@
 - **课程群**：xxxxx
 - **Issue 讨论区**：[:simple-gitlab:{ .gitlab } compiler/course](https://git.lug.ustc.edu.cn/compiler/course/-/issues) (可以尝试在评论区中 `@compilerh-course-bot`)
 
-- **教材**：张昱、陈意云，[:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf) 编译原理（第 4 版）——待出版
+- **教材**：张昱、陈意云，[《编译原理》（第 4 版）:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf)——待出版
 - **实验平台**：[头歌平台](./common/educoder.md)
 
 **感谢所有作者的工作和同学的参与。**
