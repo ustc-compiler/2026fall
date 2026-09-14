@@ -14,7 +14,7 @@
 ### 授课信息
 
 - **时间**：周一 6、7 节，周三 3、4 节 (1~15 周，[教学日历:link:](https://www.teach.ustc.edu.cn/calendar/20135.html))
-- **地点**：GT-B203
+- **地点**：GH-407
 - **主讲教师**：张昱 [:material-email:](mailto:yuzhang@ustc.edu.cn) [:simple-gitlab:{ .gitlab }](https://git.lug.ustc.edu.cn/yuzhang)
 - **助教**：孙新雨、夏怀琪、刘硕、丁伯尧、郑钊雨、魏星迪、周子翔、熊桐睿
 - **课程群**：xxxxx
