@@ -12,6 +12,9 @@
 | #4   | 09-09 | 专题报告：[王言报告\_ustc_compiler_2026.pdf](./slides/王言报告_ustc_compiler_2026.pdf)                                                   |          |
 | #5   | 09-14 | 语言描述与语法分析：[02-LangDesc-Syntax.pdf](./slides/02-LangDesc-Syntax.pdf)                                                            |          |
 | #6   | 09-16 | 语法分析：[03-Parsing1.pdf](./slides/03-Parsing1.pdf)                                                                                    |          |
+| #7   | 09-21 | 语法分析：[03-Parsing1.pdf](./slides/03-Parsing1.pdf)                                                                                    |          |
+| #8   | 09-23 | 语法分析：[03-Parsing1.pdf](./slides/03-Parsing1.pdf)                                                                                    |          |
+| #9   | 09-28 | 语法分析：[03-Parsing2-lexer.pdf](./slides/03-Parsing2-lexer.pdf)                                                                        |          |
 
 ## 作业
 
@@ -24,7 +27,8 @@
 
 | 实验编号 | 实验名称                                                                                                          | 发布时间 | 截止时间 |
 | -------- | ----------------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| 1        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) GCC/Clang 工具链使用（选做）                  | 09-17    | 09-24    |
-| 2        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 理解和使用 C++ 运行时类型信息（RTTI）（选做） | 09-17    | 09-24    |
-| 3        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 理解和使用 C++ 的智能指针（选做）             | 09-17    | 09-24    |
-| 4        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 词法分析器的构造                              | 09-17    | 09-24    |
+| 1        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) GCC/Clang 工具链使用（选做）                  | 09-17    | 09-27    |
+| 2        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 理解和使用 C++ 运行时类型信息（RTTI）（选做） | 09-17    | 09-27    |
+| 3        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 理解和使用 C++ 的智能指针（选做）             | 09-17    | 09-27    |
+| 4        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 词法分析器的构造                              | 09-17    | 09-27    |
+| 5        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 构建 SysYF 词法和语法分析器                   | 09-22    | 10-04    |
