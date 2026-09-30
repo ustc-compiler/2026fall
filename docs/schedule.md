@@ -10,11 +10,11 @@
 | #2   | 09-02 | 语言描述与词法分析：[02-LangDesc-Lex.pdf](./slides/02-LangDesc-Lex.pdf)、[课程在线平台使用演示.pptx](./slides/课程在线平台使用演示.pptx) |          |
 | #3   | 09-07 | 语言描述与词法分析：[02-LangDesc-Lex.pdf](./slides/02-LangDesc-Lex.pdf)                                                                  |          |
 | #4   | 09-09 | 专题报告：[王言报告\_ustc_compiler_2026.pdf](./slides/王言报告_ustc_compiler_2026.pdf)                                                   |          |
-| #5   | 09-14 | 语言描述与语法分析：[02-LangDesc-Syntax.pdf](./slides/02-LangDesc-Syntax.pdf)                                                            |          |
-| #6   | 09-16 | 语法分析：[03-Parsing1.pdf](./slides/03-Parsing1.pdf)                                                                                    |          |
-| #7   | 09-21 | 语法分析：[03-Parsing1.pdf](./slides/03-Parsing1.pdf)                                                                                    |          |
-| #8   | 09-23 | 语法分析：[03-Parsing1.pdf](./slides/03-Parsing1.pdf)                                                                                    |          |
-| #9   | 09-28 | 语法分析：[03-Parsing2-lexer.pdf](./slides/03-Parsing2-lexer.pdf)                                                                        |          |
+| #5   | 09-14 | 语言描述与语法分析：[03-LangDesc-Syntax.pdf](./slides/03-LangDesc-Syntax.pdf)                                                            |          |
+| #6   | 09-16 | 语法分析：[04-Parsing.pdf](./slides/04-Parsing.pdf)                                                                                      |          |
+| #7   | 09-21 | 语法分析：[04-Parsing.pdf](./slides/04-Parsing.pdf)                                                                                      |          |
+| #8   | 09-23 | 语法分析：[04-Parsing.pdf](./slides/04-Parsing.pdf)                                                                                      |          |
+| #9   | 09-28 | 语法分析：[05-Parsing-lexerGen.pdf](./slides/05-Parsing-lexerGen.pdf)                                                                    |          |
 
 ## 作业
 
