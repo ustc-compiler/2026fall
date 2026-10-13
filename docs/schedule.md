@@ -19,10 +19,11 @@
 
 ## 作业
 
-| 作业编号 | 作业内容                                                                                                                                                                                                                                           | 截止时间   | 提交方式 |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
-| 1        | [《编译原理》（第 4 版）:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf)：2.3 (b)、2.4 (e)、2.7 (a)(b)                                                                                   | 9 月 13 日 | 头歌平台 |
-| 2        | 习题：[《编译原理》（第 4 版）:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf)：2.16、3.2、3.4；开放题：[02-LangDesc-Lex.pdf 最后一页](./slides/02-LangDesc-Lex.pdf#page=50)的开放思考题 | 9 月 20 日 | 头歌平台 |
+| 作业编号 | 布置日期   | 作业内容                                                                                                                                                                                                                                           | 截止时间    | 提交方式 |
+| -------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- |
+| 1        |            | [《编译原理》（第 4 版）:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf)：2.3 (b)、2.4 (e)、2.7 (a)(b)                                                                                   | 9 月 13 日  | 头歌平台 |
+| 2        |            | 习题：[《编译原理》（第 4 版）:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf)：2.16、3.2、3.4；开放题：[02-LangDesc-Lex.pdf 最后一页](./slides/02-LangDesc-Lex.pdf#page=50)的开放思考题 | 9 月 20 日  | 头歌平台 |
+| 3        | 10 月 2 日 | [《编译原理》（第 4 版）:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf)：2.7 (c)(d)(e)、3.8、3.11、4.4、4.12 (b)、4.16、4.17                                                            | 10 月 10 日 | 头歌平台 |
 
 ## 实验
 
@@ -32,4 +33,4 @@
 | 2        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 理解和使用 C++ 运行时类型信息（RTTI）（选做） | 09-17    | 09-27    |
 | 3        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 理解和使用 C++ 的智能指针（选做）             | 09-17    | 09-27    |
 | 4        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 词法分析器的构造                              | 09-17    | 09-27    |
-| 5        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 构建 SysYF 词法和语法分析器                   | 09-22    | 10-04    |
+| 5        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 构建 SysYF 词法和语法分析器                   | 09-22    | 10-13    |

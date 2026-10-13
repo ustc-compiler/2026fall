@@ -16,7 +16,7 @@
 - **时间**：周一 6、7 节，周三 3、4 节 (1~15 周，[教学日历:link:](https://www.teach.ustc.edu.cn/calendar/20135.html))
 - **地点**：GH-407
 - **主讲教师**：张昱 [:material-email:](mailto:yuzhang@ustc.edu.cn) [:simple-gitlab:{ .gitlab }](https://git.lug.ustc.edu.cn/yuzhang)
-- **助教**：孙新雨、夏怀琪、刘硕、丁伯尧、郑钊雨、魏星迪、周子翔、熊桐睿
+- **助教**：刘硕、夏怀琪、孙新雨、丁伯尧、郑钊雨、魏星迪、周子翔、熊桐睿
 - **课程群**：xxxxx
 - **Issue 讨论区**：[:simple-gitlab:{ .gitlab } compiler/course](https://git.lug.ustc.edu.cn/compiler/course/-/issues) (可以尝试在评论区中 `@compilerh-course-bot`)
 
