@@ -4,7 +4,7 @@
 
 ## 教学课件
 
-| 课次 | 日期  | 主题和课件                                                                                                                                                             | 阅读材料 |
+| 课次   | 日期    | 主题和课件                                                                                                                                                                  | 阅读材料     |
 | ---- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | #1   | 08-31 | 引论：[01-intro.pdf](./slides/01-intro.pdf)                                                                                                                            |          |
 | #2   | 09-02 | 语言描述与词法分析：[02-LangDesc-Lex.pdf](./slides/02-LangDesc-Lex.pdf)、[课程在线平台使用演示.pptx](./slides/课程在线平台使用演示.pptx)                               |          |
@@ -17,6 +17,9 @@
 | #9   | 09-28 | 语法制导定义与自顶向下语法分析：[06-LangDesc-SyntaxDirectDef.pdf](./slides/06-LangDesc-SyntaxDirectDef.pdf)、[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf) |          |
 | #10  | 09-30 | 自顶向下语法分析：[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf)                                                                                            |          |
 | #11  | 10-14 | 自下而上的解析与翻译：[08-Parsing-BottomUp.pdf](./slides/08-Parsing-BottomUp.pdf) |          |
+=======
+| #11  | 10-14 | 自下而上的解析与翻译：[08-Parsing-BottomUp.pdf](./slides/08-Parsing-BottomUp.pdf)                                                                                                 |          |
+>>>>>>> 9b6ea8c (add bottom-up parsing lecture slides)
 
 ## 作业
 
