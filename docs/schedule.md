@@ -16,6 +16,7 @@
 | #8   | 09-23 | 语法分析：[05-Parsing-lexerGen.pdf](./slides/05-Parsing-lexerGen.pdf)                                                                                                  |          |
 | #9   | 09-28 | 语法制导定义与自顶向下语法分析：[06-LangDesc-SyntaxDirectDef.pdf](./slides/06-LangDesc-SyntaxDirectDef.pdf)、[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf) |          |
 | #10  | 09-30 | 自顶向下语法分析：[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf)                                                                                            |          |
+| #11  | 10-14 | 自下而上的解析与翻译：[08-Parsing-BottomUp.pdf](./slides/08-Parsing-BottomUp.pdf) |          |
 
 ## 作业
 
