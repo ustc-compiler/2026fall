@@ -18,6 +18,8 @@
 | #10  | 09-30 | 自顶向下语法分析：[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf)                                                                                            |          |
 | #11  | 10-14 | 自下而上的解析与翻译：[08-Parsing-BottomUp.pdf](./slides/08-Parsing-BottomUp.pdf)                                                                                      |          |
 
+| #12 | 10-19 | 类型检查基础：[09-typecheck-basic.pdf](./slides/09-typecheck-basic.pdf) | |
+
 ## 作业
 
 | 作业编号 | 发布时间    | 作业内容                                                                                                                                                                                                                                                                                                                                                                                                                    | 截止时间    | 提交方式                                                              |
