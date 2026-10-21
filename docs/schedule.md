@@ -19,6 +19,8 @@
 | #11  | 10-14 | 自下而上的解析与翻译：[08-Parsing-BottomUp.pdf](./slides/08-Parsing-BottomUp.pdf)                                                                                      |          |
 | #12  | 10-19 | 类型检查基础：[09-typecheck-basic.pdf](./slides/09-typecheck-basic.pdf)                                                                                                |          |
 
+| #13 | 10-21 | 类型检查扩展：[10-typecheck-ext.pdf](./slides/10-typecheck-ext.pdf) | |
+
 ## 作业
 
 | 作业编号 | 发布时间    | 作业内容                                                                                                                                                                                                                                                                                                                                                                                                                    | 截止时间    | 提交方式                                                              |
