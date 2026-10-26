@@ -41,4 +41,4 @@
 | 3        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 理解和使用 C++ 的智能指针（选做）             | 09-17    | 09-27    |
 | 4        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 词法分析器的构造                              | 09-17    | 09-27    |
 | 5        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework) 构建 SysYF 词法和语法分析器                   | 09-22    | 10-13    |
-| 6        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework/580/detail?tabs=0) 构建 SysYF 中间代码生成器   | 10-19    | 11-03    |
+| 6        | [:link:](http://211.86.155.200/classrooms/x89qhabk/shixun_homework/581/detail?tabs=0) 构建 SysYF 语义检查器       | 10-19    | 11-03    |
