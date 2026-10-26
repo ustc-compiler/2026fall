@@ -4,21 +4,22 @@
 
 ## 教学课件
 
-| 课次 | 日期  | 主题和课件                                                                                                                                                             | 阅读材料 |
-| ---- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| #1   | 08-31 | 引论：[01-intro.pdf](./slides/01-intro.pdf)                                                                                                                            |          |
-| #2   | 09-02 | 语言描述与词法分析：[02-LangDesc-Lex.pdf](./slides/02-LangDesc-Lex.pdf)、[课程在线平台使用演示.pptx](./slides/课程在线平台使用演示.pptx)                               |          |
-| #3   | 09-07 | 语言描述与词法分析：[02-LangDesc-Lex.pdf](./slides/02-LangDesc-Lex.pdf)                                                                                                |          |
-| #4   | 09-09 | 专题报告：[王言报告\_ustc_compiler_2026.pdf](./slides/王言报告_ustc_compiler_2026.pdf)                                                                                 |          |
-| #5   | 09-14 | 语言描述与语法分析：[03-LangDesc-Syntax.pdf](./slides/03-LangDesc-Syntax.pdf)                                                                                          |          |
-| #6   | 09-16 | 语法分析：[04-Parsing.pdf](./slides/04-Parsing.pdf)                                                                                                                    |          |
-| #7   | 09-21 | 语法分析：[04-Parsing.pdf](./slides/04-Parsing.pdf)                                                                                                                    |          |
-| #8   | 09-23 | 语法分析：[05-Parsing-lexerGen.pdf](./slides/05-Parsing-lexerGen.pdf)                                                                                                  |          |
-| #9   | 09-28 | 语法制导定义与自顶向下语法分析：[06-LangDesc-SyntaxDirectDef.pdf](./slides/06-LangDesc-SyntaxDirectDef.pdf)、[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf) |          |
-| #10  | 09-30 | 自顶向下语法分析：[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf)                                                                                            |          |
-| #11  | 10-14 | 自下而上的解析与翻译：[08-Parsing-BottomUp.pdf](./slides/08-Parsing-BottomUp.pdf)                                                                                      |          |
-| #12  | 10-19 | 类型检查基础：[09-typecheck-basic.pdf](./slides/09-typecheck-basic.pdf)                                                                                                |          |
-| #13  | 10-21 | 类型检查扩展：[10-typecheck-ext.pdf](./slides/10-typecheck-ext.pdf)                                                                                                    |          |
+| 课次 | 日期  | 主题和课件                                                                                                                                                             | 阅读材料    |
+| ---- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| #1   | 08-31 | 引论：[01-intro.pdf](./slides/01-intro.pdf)                                                                                                                            |             |
+| #2   | 09-02 | 语言描述与词法分析：[02-LangDesc-Lex.pdf](./slides/02-LangDesc-Lex.pdf)、[课程在线平台使用演示.pptx](./slides/课程在线平台使用演示.pptx)                               |             |
+| #3   | 09-07 | 语言描述与词法分析：[02-LangDesc-Lex.pdf](./slides/02-LangDesc-Lex.pdf)                                                                                                |             |
+| #4   | 09-09 | 专题报告：[王言报告\_ustc_compiler_2026.pdf](./slides/王言报告_ustc_compiler_2026.pdf)                                                                                 |             |
+| #5   | 09-14 | 语言描述与语法分析：[03-LangDesc-Syntax.pdf](./slides/03-LangDesc-Syntax.pdf)                                                                                          |             |
+| #6   | 09-16 | 语法分析：[04-Parsing.pdf](./slides/04-Parsing.pdf)                                                                                                                    |             |
+| #7   | 09-21 | 语法分析：[04-Parsing.pdf](./slides/04-Parsing.pdf)                                                                                                                    |             |
+| #8   | 09-23 | 语法分析：[05-Parsing-lexerGen.pdf](./slides/05-Parsing-lexerGen.pdf)                                                                                                  |             |
+| #9   | 09-28 | 语法制导定义与自顶向下语法分析：[06-LangDesc-SyntaxDirectDef.pdf](./slides/06-LangDesc-SyntaxDirectDef.pdf)、[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf) |             |
+| #10  | 09-30 | 自顶向下语法分析：[07-Parsing-TopDown.pdf](./slides/07-Parsing-TopDown.pdf)                                                                                            |             |
+| #11  | 10-14 | 自下而上的解析与翻译：[08-Parsing-BottomUp.pdf](./slides/08-Parsing-BottomUp.pdf)                                                                                      |             |
+| #12  | 10-19 | 类型检查基础：[09-typecheck-basic.pdf](./slides/09-typecheck-basic.pdf)                                                                                                |             |
+| #13  | 10-21 | 类型检查扩展：[10-typecheck-ext.pdf](./slides/10-typecheck-ext.pdf)                                                                                                    |             |
+| #14  | 10-26 | 运行时：[part1](./slides/06-runtime-part1.pdf)、[part2](./slides/06-runtime-part2.pdf)、[part3](./slides/06-runtime-part3.pdf)                                         | 书本第 6 章 |
 
 ## 作业
 
