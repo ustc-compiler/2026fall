@@ -22,6 +22,15 @@
 | #14      | 10-26 | 运行时：[part1](./slides/06-runtime-part1.pdf)、[part2](./slides/06-runtime-part2.pdf)、[part3](./slides/06-runtime-part3.pdf)                                         | 书本第 6 章                                                                                                                                         |
 | 期中考试 | 11-04 | **09:45–11:20，高新区 师生活动中心 GH-407**                                                                                                                            |                                                                                                                                                     |
 
+| #15 | 11-09 | 中间表示：[part1](https://ustc-compiler.github.io/2025fall/slides/2024/07-ir-part1.pdf)、[part2](https://ustc-compiler.github.io/2025fall/slides/2024/07-ir-part2.pdf) | 书本第 7 章， [AICompiler](https://ustc-compiler.github.io/2025fall/slides/AICompiler.pdf) |
+| #16 | 11-11 | 中间表示：[part1](https://ustc-compiler.github.io/2025fall/slides/2024/07-ir-part1.pdf)、[part2](https://ustc-compiler.github.io/2025fall/slides/2024/07-ir-part2.pdf) | 书本第 7 章， [AICompiler](https://ustc-compiler.github.io/2025fall/slides/AICompiler.pdf) |
+| #17 | 11-16 | 程序语言设计分享 | |
+| #18 | 11-18 | 中间表示：[part1](https://ustc-compiler.github.io/2025fall/slides/2024/07-ir-part1.pdf)、[part2](https://ustc-compiler.github.io/2025fall/slides/2024/07-ir-part2.pdf) | 书本第 7 章， [AICompiler](https://ustc-compiler.github.io/2025fall/slides/AICompiler.pdf) |
+| #19 | 11-23 | 中间表示：[part1](https://ustc-compiler.github.io/2025fall/slides/2024/07-ir-part1.pdf)、[part2](https://ustc-compiler.github.io/2025fall/slides/2024/07-ir-part2.pdf) | 书本第 7 章， [AICompiler](https://ustc-compiler.github.io/2025fall/slides/AICompiler.pdf) |
+| #20 | 11-25 | 代码生成：[codegen](https://ustc-compiler.github.io/2025fall/slides/2024/08-codegen.pdf) | 书本第 8 章 |
+| #21 | 11-30 | 代码优化：[optimize](https://ustc-compiler.github.io/2025fall/slides/09-optimize.pdf) | 书本第 9 章和第 10 章 |
+| #22 | 12-02 | 编译和运行系统：[sys](https://ustc-compiler.github.io/2025fall/slides/10-sys.pdf) | 书本第 11 章 |
+
 ## 作业
 
 | 作业编号 | 发布时间    | 作业内容                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 截止时间    | 提交方式                                                              |
